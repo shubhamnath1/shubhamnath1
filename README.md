@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ShubhamNath4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShubhamNath4" height="30" width="40" /></a>
-<a href="https://https://www.linkedin.com/in/shubham-nath-81301a165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-nath-81301a165/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-nath-81301a165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-nath-81301a165/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nath725shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nath725shubham" height="30" width="40" /></a>
 </p>
 
